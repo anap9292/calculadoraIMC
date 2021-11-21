@@ -35,7 +35,7 @@ body{
     background: rgba(227, 156, 255, 0.548);
     transition: background-color.5s;
     box-shadow: 0px 0px 10px;
-    color: rgba(227, 156, 255, 0.548);
+    
     
    
 }
@@ -59,10 +59,11 @@ body{
     }
     .container{
         width: 60%;
-        display: block;
+        height: 400px;
        flex-direction: column;
        justify-content: center;
        align-items: center;
+       flex-direction: column;
         
 
     }
